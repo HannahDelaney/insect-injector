@@ -6,7 +6,7 @@ var insects = [
     img: 'ant-nest-beetle.jpg',
     family: 'Carabidae',
     size: [6, 20],
-    food:{
+    food: {
       eatsInsects: true,
       eatsDung: false,
       eatsPlants: false
@@ -17,7 +17,7 @@ var insects = [
     img: 'dung-beetle.jpg',
     family: 'Scarabidae',
     size: [20, 30],
-    food:{
+    food: {
       eatsInsects: false,
       eatsDung: true,
       eatsPlants: false
@@ -28,7 +28,7 @@ var insects = [
     img: 'stag-beetle.jpg',
     family: 'Lucanidae',
     size: [5, 120],
-    food:{
+    food: {
       eatsInsects: false,
       eatsDung: false,
       eatsPlants: true
@@ -39,7 +39,7 @@ var insects = [
     img: 'tortoise-beetle.jpg',
     family: 'Cassidinae',
     size: [1, 18],
-    food:{
+    food: {
       eatsInsects: false,
       eatsDung: false,
       eatsPlants: true
